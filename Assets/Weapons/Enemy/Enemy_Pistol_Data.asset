@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebed89e0852303f40affe8b1f4692c03, type: 3}
+  m_Name: Enemy_Pistol_Data
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponSprite: {fileID: -6251682230944352461, guid: dec6bfac7f5c48a4ba08c271219211d9, type: 3}
+  fireRate: 0.8
+  spreadAngle: 8
+  bulletsPerShot: 1
+  reloadTime: 0
+  magazineSize: 0
+  maxTotalAmmo: 0
+  bulletDamage: 1
+  bulletSpeed: 25
+  bulletLifeTime: 2
