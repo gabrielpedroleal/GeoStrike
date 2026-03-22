@@ -22,7 +22,7 @@ You are an circle space adventurer that is being attacked by triangles space pir
 
 🕹️ How to Play
 
-1. You can download the repository and run the .exe file in the build folder or xxxxx.
+1. Visit my itch.io to play this game: https://gabrielpedroleal.itch.io/geostrike.
    
 2. WASD to move the character.
    
